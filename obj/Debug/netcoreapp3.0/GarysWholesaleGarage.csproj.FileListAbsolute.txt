@@ -1,0 +1,11 @@
+C:\Users\Shirish\projects\workspace\GarysWholesaleGarage\bin\Debug\netcoreapp3.0\GarysWholesaleGarage.exe
+C:\Users\Shirish\projects\workspace\GarysWholesaleGarage\bin\Debug\netcoreapp3.0\GarysWholesaleGarage.deps.json
+C:\Users\Shirish\projects\workspace\GarysWholesaleGarage\bin\Debug\netcoreapp3.0\GarysWholesaleGarage.runtimeconfig.json
+C:\Users\Shirish\projects\workspace\GarysWholesaleGarage\bin\Debug\netcoreapp3.0\GarysWholesaleGarage.runtimeconfig.dev.json
+C:\Users\Shirish\projects\workspace\GarysWholesaleGarage\bin\Debug\netcoreapp3.0\GarysWholesaleGarage.dll
+C:\Users\Shirish\projects\workspace\GarysWholesaleGarage\bin\Debug\netcoreapp3.0\GarysWholesaleGarage.pdb
+C:\Users\Shirish\projects\workspace\GarysWholesaleGarage\obj\Debug\netcoreapp3.0\GarysWholesaleGarage.csprojAssemblyReference.cache
+C:\Users\Shirish\projects\workspace\GarysWholesaleGarage\obj\Debug\netcoreapp3.0\GarysWholesaleGarage.AssemblyInfoInputs.cache
+C:\Users\Shirish\projects\workspace\GarysWholesaleGarage\obj\Debug\netcoreapp3.0\GarysWholesaleGarage.AssemblyInfo.cs
+C:\Users\Shirish\projects\workspace\GarysWholesaleGarage\obj\Debug\netcoreapp3.0\GarysWholesaleGarage.dll
+C:\Users\Shirish\projects\workspace\GarysWholesaleGarage\obj\Debug\netcoreapp3.0\GarysWholesaleGarage.pdb
